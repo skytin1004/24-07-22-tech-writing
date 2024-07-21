@@ -146,12 +146,3 @@ In this exercise, you will run the *download_data.py* file to download the *wiki
 > **Dataset size and fine-tuning time**
 >
 > In this E2E sample, you use only 1% of the dataset (`split='train[:3%]'`). This significantly reduces the amount of data, speeding up both the upload and fine-tuning processes. You can adjust the percentage to find the right balance between training time and model performance. Using a smaller subset of the dataset reduces the time required for fine-tuning, making the process more manageable for a E2E sample.
-
-## 튜토리얼 작성 예시3
-
-> [!TIP]
-> **예시 보면서 확인해야 할것**
->
-> 1. 사진 4칸 들여쓰기
-> 1. 언제 `1.2.3.4.5` 넘버링을 하고 언제 `-` 를 사용하는지
-> 1. 자동 넘버링 활용

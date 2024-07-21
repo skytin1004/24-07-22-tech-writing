@@ -6,10 +6,12 @@
 
 ## Table of Content
 
-1. [MLSA 등록 후 Tech Community에 Writer 권한 신청하기](./ms-community-writer/includes/01-become-mstechcommunity-writer.md)(✅)
-1. [MS Tech Community에서 글 작성하는 방법](./ms-community-writer/includes/02-howtowrite-techcommunity.md)(✅)
-1. [VS Code에서 기술문서 작성할 때 도움되는 팁들](./ms-community-writer/includes/03-tips-for-vscode.md)(✅)
-1. [VS Code에서 기술문서 작성 예시](./ms-community-writer/includes/04-tips-for-vscode.md)(✅)
+1. [VS Code에서 기술문서 작성할 때 도움되는 팁들](./ms-community-writer/includes/01-tips-for-vscode.md)(✅)
+1. [VS Code에서 기술문서 작성 예시](./ms-community-writer/includes/02-tips-for-vscode.md)(✅)
+
+## 발표자료 공유
+
+1. [발표자료](./ms-community-writer/includes/02-tips-for-vscode.md)(✅)
 
 ## 작성한 MS Tech Community 문서 및 E2E 샘플 공유 (참고용)
 
@@ -24,5 +26,3 @@
 ### Phi-3 CookBook E2E 샘플 링크
 
 - [Code-first approach: End-to-end (E2E) sample on Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook/blob/main/md/06.E2ESamples/E2E_Phi-3-FineTuning_PromptFlow_Integration.md?wt.mc_id=studentamb_279723)
-
-## 발표자료 공유 링크
