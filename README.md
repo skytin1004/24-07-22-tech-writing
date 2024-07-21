@@ -17,6 +17,8 @@
 
 ### MS Tech Community 블로그 링크
 
+- [Educator Developer Blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/bg-p/EducatorDeveloperBlog?wt.mc_id=studentamb_279723)
+
 - [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow in Azure AI Studio](https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726?wt.mc_id=studentamb_279723) (Low-code approach)
 - [Fine-Tune and Integrate Custom Phi-3 Models with Prompt Flow: Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow/ba-p/4178612?wt.mc_id=studentamb_279723) (Code-first approach)
 - [Build a chatbot service to ensure safe conversations: Using Azure Content Safety & Azure OpenAI](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-chatbot-service-to-ensure-safe-conversations-using-azure/ba-p/4143628?wt.mc_id=studentamb_279723)
