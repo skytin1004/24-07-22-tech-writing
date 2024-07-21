@@ -7,11 +7,11 @@
 ## Table of Content
 
 1. [VS Code에서 기술문서 작성할 때 도움되는 팁들](./ms-community-writer/includes/01-tips-for-vscode.md)(✅)
-1. [VS Code에서 기술문서 작성 예시](./ms-community-writer/includes/02-tips-for-vscode.md)(✅)
+1. [VS Code에서 기술문서 작성 예시](./ms-community-writer/includes/02-example-for-vscode.md)(✅)
 
 ## 발표자료 공유
 
-1. [발표자료](./ms-community-writer/includes/02-tips-for-vscode.md)(✅)
+1. [발표자료: VS Code를 활용해서 MS Tech Community에 효과적으로 글쓰는 방법](./ms-community-writer/includes/presentation.pdf)(✅)
 
 ## 작성한 MS Tech Community 문서 및 E2E 샘플 공유 (참고용)
 
