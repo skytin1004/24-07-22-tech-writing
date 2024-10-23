@@ -8,7 +8,7 @@
 | Language             | Code | Link to Translated README                               | Last Updated |
 |----------------------|------|---------------------------------------------------------|--------------|
 | English | en   | [English Translation](./translations/en/README.md)      | 2024-10-24   |
-| Punjabi (Gurmukhi)| pa   | [Punjabi Translation](./translations/tw/README.md)      | 2024-10-24   |
+| Punjabi (Gurmukhi)| pa   | [Punjabi Translation](./translations/pa/README.md)      | 2024-10-24   |
 | Hindi               | hi   | [Hindi  Translation](./translations/hi/README.md)       | 2024-10-24   |
 
 > [!NOTE]
